@@ -1,0 +1,19 @@
+Richard and Seans Simple C Chess Engine (RSSCCE) design document.
+
+FILES:
+RSSCCE.c
+Main and all chess functions
+RSSCCE.h 
+Many required function definitions
+
+Design doc 
+README
+
+BASIC ENGINE FEATURES:
+Console chess engine, but with Winboard and UCI GUI protocols enabled
+(allows use in chess software such as Winboard, Fritz, Arena etc).
+
+Board design:
+1D array 10x12
+
+
