@@ -1,5 +1,5 @@
 /*RSSCCEv1.0: Richard & Sean's Simple C Chess Engine 
-A basic C programmed basic chess engine, as an exercise for learning basic C programming
+A simple C programmed basic chess engine, as an exercise for basic simple learning of C programming
 and creating a simple chess engine. This code is heavily based on chess engine LaMoSca 
 (LAboratorio di MOtori per SCAcchi)versione 0.01  2001 Pietro Valocchi
 
