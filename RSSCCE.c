@@ -1,5 +1,10 @@
-/*RSSCCEv1.0: Richard & Sean's Simple C Chess Engine A  basic C programmed basic chess engine.
-GitHubhttps://github.com/rpd/RSSCCE*/
+/*
+RSSCCEv1.0: Richard & Sean's Simple C Chess Engine.
+A basic C programmed, basic chess engine.
+See Design doc and README and RSSCCE.h files
+GitHub
+https://github.com/rpd/RSSCCE
+*/
 
 #include <stdio.h> 
 
