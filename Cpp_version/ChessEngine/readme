@@ -1,3 +1,23 @@
 
 RSSCCE MSVC++ chess engine by Sean & Richard. This is Sean's code. Sean is a professional C++ programmer while Richard is a beginner amateur C programmer with almost no knowledge of C++
 
+Seans notes
+Email: 25/02/2018 14:06
+Please unRAR the enclosed attachment (Use WinRar, Password "Chess", rename the file to .rar instead of .txt) 
+and then open the solution with visual studio 2017. 
+It's a c++ solution, so we can build upon your C knowledge and introduce object oriented programming techniques 
+for your education/interest. It's also just as fast as C you'll be pleased to know (more or less depending on how you use it).
+It's a solution which contains two projects, the main chess engine library and a test console app 
+(not done aynything with it yet). 
+When you look, focus your efforts on the ChessEngine project files.
+All I've done is create a board class, some enumerated types and a Game class, 
+along with functions to create the base board and set a piece on the board. 
+Please look through the files and get back to me with a list of question of stuff you don't 
+understand in a list so I can easily address the. 
+There isn't too much flesh in there at the moment and none of it is tested, 
+its just for you to start looking.The project does not use anyone's library or anything, 
+its ground up, from nothing. Have a think about what we would need to do next, which isn't 
+too taxing and we can take that as a tuition piece of work. 
+Examples are; - Create the representation of a MOVE, as a class. Source/Destination square, piece involved etc... 
+Once this is done then the Game class can be extended to 'do' a move. Legality of moves will come later. 
+- Some more information in the Game class, such as names of players etc...Cheers,Sean
